@@ -1,3 +1,10 @@
+// Juann-Diego 
+// Mr Something 
+// coolest shit in the world 
+// today 
+// this program does nothing that is benifitial 
+
+
 // The "NewGitTest" class.
 import java.awt.*;
 import hsa.Console;
